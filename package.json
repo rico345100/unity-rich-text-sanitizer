@@ -1,0 +1,18 @@
+{
+  "name": "unity-rich-text-sanitizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rico345100/unity-rich-text-sanitizer"
+  },
+  "author": "modernator",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
